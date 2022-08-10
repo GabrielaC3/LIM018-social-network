@@ -1,6 +1,6 @@
 # Red Social Purr Love
 ## Indice
-* [1. Descripción](#1-descripcion)
+* [1. Descripción](#id1)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 * [4. Consideraciones generales](#4-consideraciones-generales)
@@ -10,7 +10,7 @@
 * [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
 
 
-## Descripción
+## Descripción <a name="id1"></a>
 Purr Love es un red social que conecta a aquellos que aman a los gatos, solo tienes que registrarte para poder inciar sesión e interactuar en esta comunidad.
 Los usuarios pueden realizar publicaciones de texto y/o imágenes, editarlas, eliminarlas y reaccionar a otras publicaciones dandoles likes.
 
