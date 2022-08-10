@@ -10,7 +10,7 @@ Los usuarios pueden realizar publicaciones de texto y/o imágenes, editarlas, el
 ## Prototipo de Alta Fidelidad
 ### Mobil
 ![](https://github.com/GabrielaC3/LIM018-social-network/blob/main/src/image/Prototipo%20de%20Alta%20Fidelidad%20Mobil.PNG)
-###Desktop
+### Desktop
 ![](https://github.com/GabrielaC3/LIM018-social-network/blob/main/src/image/Prototipo%20de%20Alta%20Fidelidad%20Desktop.PNG)
 
 ## Vista Final del Proyecto
